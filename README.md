@@ -13,7 +13,7 @@
 ### :bookmark: 스택/큐
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |:-------------:|:-------------:|:-------------:|[cpp]| 
-| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |:-------------:|:-------------:|:-------------:|[cpp]| 
+| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |:-------------:|:-------------:|:-------------:|[cpp](Stack_Queue/기능개발_이정은.cpp)| 
+| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |:-------------:|:-------------:|:-------------:|[cpp](Stack_Queue/프린터_이정은.cpp)| 
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |:-------------:|:-------------:|:-------------:|[cpp]| 
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) |:-------------:|:-------------:|:-------------:|[cpp]| 
