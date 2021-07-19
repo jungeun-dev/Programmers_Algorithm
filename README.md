@@ -1,4 +1,4 @@
-# :tada: Programmers-Algorithm
+# Programmers-Algorithm
 
 ## :pushpin: 코딩테스트 고득점 Kit
 
