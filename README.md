@@ -17,3 +17,12 @@
 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |:-------------:|:-------------:|:-------------:|[cpp](Stack_Queue/프린터_이정은.cpp)| 
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |:-------------:|:-------------:|:-------------:|[cpp]| 
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) |:-------------:|:-------------:|:-------------:|[cpp](Stack_Queue/주식가격_이정은.cpp)| 
+
+### :bookmark: 힙
+| 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |:-------------:|:-------------:|:-------------:|[cpp]| 
+| [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |:-------------:|:-------------:|:-------------:|[cpp]| 
+| [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) |:-------------:|:-------------:|:-------------:|[cpp]| 
+ 
+
