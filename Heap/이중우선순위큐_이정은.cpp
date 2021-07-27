@@ -11,30 +11,26 @@ vector<int> solution(vector<string> operations) {
     string s;
     int a;
     for (string str : operations) {
-        s = str[0]; //¹®ÀÚ¿­ÀÇ 0¹øÂ°
-        a = stoi(str.substr(2)); //¹®ÀÚ¿­ÀÇ 2¹øÂ°ºÎÅÍ ¼ýÀÚ·Î º¯È¯ 
-        if (s == "I") { //Ãß°¡ÇÏ´Â °æ¿ì
+        s = str[0]; //ë¬¸ìžì—´ì˜ 0ë²ˆì§¸
+        a = stoi(str.substr(2)); //ë¬¸ìžì—´ì˜ 2ë²ˆì§¸ë¶€í„° ìˆ«ìžë¡œ ë³€í™˜ 
+        if (s == "I") { //ì¶”ê°€í•˜ëŠ” ê²½ìš°
             dq.push_back(a);
-            sort(dq.begin(), dq.end()); //¿À¸§Â÷¼ø Á¤·Ä
+            sort(dq.begin(), dq.end()); //ì˜¤ë¦„ì°¨ìˆœ ì •ë ¬
         }
-        else if (s == "D") { //»èÁ¦ÇÏ´Â °æ¿ì
+        else if (s == "D") { //ì‚­ì œí•˜ëŠ” ê²½ìš°
             if (dq.size() > 0) {
-                if (a == 1) {//ÃÖ´ñ°ª »èÁ¦
-                    dq.pop_back();
-                }
-                else { //ÃÖ¼Ú°ª »èÁ¦
-                    dq.pop_front();
-                }
+                if (a == 1) dq.pop_back();//ìµœëŒ“ê°’ ì‚­ì œ               
+                else dq.pop_front(); //ìµœì†Ÿê°’ ì‚­ì œ                
             }
         }
     }
-    if (dq.empty()) { // ºó°æ¿ì
+    if (dq.empty()) { // ë¹ˆê²½ìš°
         answer.push_back(0);
         answer.push_back(0);
     }
     else {
-        answer.push_back(dq.back()); // ÃÖ´ë°ª »ðÀÔ
-        answer.push_back(dq.front()); // ÃÖ¼Ò°ª »ðÀÔ        
+        answer.push_back(dq.back()); // ìµœëŒ€ê°’ ì‚½ìž…
+        answer.push_back(dq.front()); // ìµœì†Œê°’ ì‚½ìž…        
     }
     return answer;
 }
