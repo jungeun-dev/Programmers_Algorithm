@@ -28,7 +28,7 @@
 ### :bookmark: 정렬
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |[cpp]|[cpp](Sort/K번째 수_정찬호.cpp)|:-------------:|[cpp]| 
+| [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |[cpp]|[cpp](Sort/K번째%20수_정찬호.cpp)|:-------------:|[cpp]| 
 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |[cpp]|:-------------:|:-------------:|[cpp]| 
 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |[cpp]|:-------------:|:-------------:|[cpp]| 
  
