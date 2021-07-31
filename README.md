@@ -30,6 +30,6 @@
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |[cpp]|[cpp](Sort/K번째%20수_정찬호.cpp)|:-------------:|[cpp]| 
 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |[cpp]|[cpp](Sort/가장큰수_정찬호.cpp)|:-------------:|[cpp]| 
-| [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |[cpp]|:-------------:|:-------------:|[cpp]| 
+| [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |[cpp]|[cpp](Sort/H-index_정찬호.cpp)|:-------------:|[cpp]| 
  
 
