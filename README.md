@@ -32,4 +32,45 @@
 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |[cpp](Sort/가장큰수_변효근.cpp)|[cpp](Sort/가장큰수_정찬호.cpp)|:-------------:|[cpp](Sort/가장큰수_이정은.cpp)| 
 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |[cpp](Sort/H-Index_변효근.cpp)|[cpp](Sort/H-index_정찬호.cpp)|:-------------:|[cpp](Sort/H-Index_이정은.cpp)| 
  
+ ### :bookmark: 완전 탐색
+| 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp]|:-------------:|[cpp]| 
+
+ ### :bookmark: 탐욕법
+| 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp]|:-------------:|[cpp]| 
+
+ ### :bookmark: 동적계획법
+| 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp]|:-------------:|[cpp]| 
+
+ ### :bookmark: 깊이/너비 우선 탐색
+| 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp]|:-------------:|[cpp]| 
+
+ ### :bookmark: 이분 탐색
+| 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp]|:-------------:|[cpp]| 
+
+ ### :bookmark: 그래프
+| 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp]|:-------------:|[cpp]| 
 
