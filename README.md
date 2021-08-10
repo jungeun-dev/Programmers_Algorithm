@@ -63,9 +63,8 @@
  ### :bookmark: 이분 탐색
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp]|:-------------:|[cpp]| 
-| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp]|:-------------:|[cpp]| 
-| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |[cpp]|[cpp]|:-------------:|[cpp]| 
 
  ### :bookmark: 그래프
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
