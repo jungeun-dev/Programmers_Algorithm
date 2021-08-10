@@ -8,8 +8,8 @@ vector<int> solution(int brown, int yellow) {
     int a, b;
     for (int i = 1; i * i <= yellow; i++) {
         if (yellow % i == 0) {
-            a = i + 2; // ¼¼·Î
-            b = yellow / i + 2; // °¡·Î
+            a = i + 2; // ì„¸ë¡œ
+            b = yellow / i + 2; // ê°€ë¡œ
             if (a * 2 + b * 2 - 4 == brown) {
                 answer.push_back(b); answer.push_back(a);
                 return answer;
