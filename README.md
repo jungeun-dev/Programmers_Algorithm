@@ -35,7 +35,7 @@
  ### :bookmark: 완전 탐색
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp](Brute-Force/모의고사_정찬호.cpp)|:-------------:|[cpp]| 
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp](Brute-Force/모의고사_정찬호.cpp)|[cpp](Brute-Force/카펫_유성욱.cpp)|[cpp]| 
 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp](Brute-Force/소수찾기_정찬호.cpp)|:-------------:|[cpp]| 
 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp](Brute-Force/카펫_정찬호.cpp)|[cpp](Brute-Force/카펫_유성욱.cpp)|[cpp]| 
 
