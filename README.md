@@ -36,7 +36,7 @@
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp](Brute-Force/모의고사_정찬호.cpp)|[cpp](Brute-Force/모의고사_유성욱.cpp)|[cpp](Brute-Force/모의고사_이정은.cpp)| 
-| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp](Brute-Force/소수찾기_정찬호.cpp)|:-------------:|[cpp](Brute-Force/소수찾기_이정은.cpp)| 
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp](Brute-Force/소수찾기_정찬호.cpp)|[cpp](Brute-Force/소수찾기_유성욱.cpp)|[cpp](Brute-Force/소수찾기_이정은.cpp)| 
 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp](Brute-Force/카펫_정찬호.cpp)|[cpp](Brute-Force/카펫_유성욱.cpp)|[cpp](Brute-Force/카펫_이정은.cpp)| 
 
  ### :bookmark: 탐욕법
