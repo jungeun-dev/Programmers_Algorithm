@@ -42,16 +42,20 @@
  ### :bookmark: 탐욕법
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp]|:-------------:|[cpp]| 
-| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp]|:-------------:|[cpp]| 
-| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) |[cpp]|[cpp]|:-------------:|[cpp]| 
 
  ### :bookmark: 동적계획법
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp]|:-------------:|[cpp]| 
-| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp]|:-------------:|[cpp]| 
-| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) |[cpp]|[cpp]|:-------------:|[cpp]| 
 
  ### :bookmark: 깊이/너비 우선 탐색
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
