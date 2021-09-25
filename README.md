@@ -53,27 +53,27 @@
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |[cpp](DP/N으로표현_변효근.cpp)|[cpp]|:-------------:|[cpp]| 
-| [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) |[cpp](DP/정수삼각형_변효근.cpp)|[cpp]|:-------------:|[cpp]| 
-| [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) |[cpp](DP/등굣길_변효근.cpp)|[cpp]|:-------------:|[cpp]| 
+| [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) |[cpp](DP/정수삼각형_변효근.cpp)|[cpp]|:-------------:|[cpp](Dynamic%20Programming/정수삼각형_이정은.cpp)| 
+| [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) |[cpp](DP/등굣길_변효근.cpp)|[cpp]|:-------------:|[cpp](Dynamic%20Programming/등굣길_이정은.cpp)| 
 | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) |[cpp](DP/도둑질_변효근.cpp)|[cpp]|:-------------:|[cpp]| 
 
  ### :bookmark: 깊이/너비 우선 탐색
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp]|:-------------:|[cpp]| 
-| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp]|:-------------:|[cpp]| 
-| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp]|:-------------:|[cpp]| 
-
+| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |[cpp]|[cpp]|:-------------:|[cpp](DFS%2CBFS/타겟넘버_이정은.cpp)| 
+| [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |[cpp]|[cpp]|:-------------:|[cpp](DFS%2CBFS/네트워크_이정은.cpp)| 
+| [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) |[cpp]|[cpp]|:-------------:|[cpp](DFS%2CBFS/단어변환_이정은.cpp)| 
+| [여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164) |[cpp]|[cpp]|:-------------:|[cpp]| 
  ### :bookmark: 이분 탐색
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |[cpp]|[cpp]|:-------------:|[cpp](Binary%20Search/입국심사_이정은.cpp)| 
 | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |[cpp]|[cpp]|:-------------:|[cpp]| 
 
  ### :bookmark: 그래프
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) |[cpp]|[cpp]|:-------------:|[cpp]| 
-| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[cpp]|[cpp]|:-------------:|[cpp]| 
-| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) |[cpp]|[cpp]|:-------------:|[cpp]| 
 
