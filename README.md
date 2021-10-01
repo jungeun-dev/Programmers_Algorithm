@@ -42,10 +42,10 @@
  ### :bookmark: 탐욕법
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |[cpp](Greedy/체육복_변효근.cpp)|[cpp]|:-------------:|[cpp]| 
+| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |[cpp](Greedy/체육복_변효근.cpp)|[cpp]|:-------------:|[cpp](Greedy/체육복_이정은.cpp)| 
 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) |[cpp](Greedy/조이스틱_변효근.cpp)|[cpp]|:-------------:|[cpp]| 
-| [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |[cpp](Greedy/큰수만들기_변효근.cpp)|[cpp]|:-------------:|[cpp]| 
-| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |[cpp](Greedy/구명보트_변효근.cpp)|[cpp]|:-------------:|[cpp]| 
+| [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |[cpp](Greedy/큰수만들기_변효근.cpp)|[cpp]|:-------------:|[cpp](Greedy/큰수만들기_이정은.cpp)| 
+| [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) |[cpp](Greedy/구명보트_변효근.cpp)|[cpp]|:-------------:|[cpp](Greedy/구명보트_이정은.cpp)| 
 | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |[cpp](Greedy/섬%20연결하기_변효근.cpp)|[cpp]|:-------------:|[cpp]| 
 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) |[cpp](Greedy/단속카메라_변효근.cpp)|[cpp]|:-------------:|[cpp]| 
 
