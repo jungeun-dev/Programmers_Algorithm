@@ -73,7 +73,7 @@
  ### :bookmark: 그래프
 | 문제 | 변효근 | 정찬호 | 유성욱 | 이정은 | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |[cpp]|[cpp]|:-------------:|[cpp]| 
-| [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) |[cpp]|[cpp]|:-------------:|[cpp]| 
+| [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |[cpp]|[cpp]|:-------------:|[cpp](Graph/가장먼노드_이정은.cpp)| 
+| [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) |[cpp]|[cpp]|:-------------:|[cpp](Graph/순위_이정은.cpp)| 
 | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) |[cpp]|[cpp]|:-------------:|[cpp]| 
 
